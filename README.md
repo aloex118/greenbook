@@ -1,9 +1,3 @@
-# greenbook
-#firstversion
-#beginner
-
-html + css layout 
-without functional. 
-the layout has been created with many mistakes.
-workes perfect on 1920x1080 screens. 
-
+Первая попытка написать подобие сайта, после изучений основ HTML + CSS. 
+Адаптивность отсутствует, всё писалось на чистом HTML, CSS. Присутствует обилие плохого кода, очень трудно разобраться что и где написано. 
+Выложил как пример своего прогресса. 
